@@ -68,5 +68,3 @@ peerskill/
 - Improved code modularity and reusable component design
 
 ---
-
-> 📌 This project is aimed at showcasing DBMS knowledge, frontend skills, and real-world simulation without backend integration. Ideal for placement portfolios.
